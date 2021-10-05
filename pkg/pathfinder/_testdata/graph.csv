@@ -1,0 +1,10 @@
+start_id,end_id,travel_time
+A,B,15
+B,C,4
+C,D,8
+D,C,10
+D,E,6
+A,D,50
+C,E,22
+E,B,13
+A,E,37
